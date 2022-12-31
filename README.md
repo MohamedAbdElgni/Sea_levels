@@ -1,4 +1,4 @@
-Sea levels predictor is an Educational project about how we can apply liner regression on data since 1890 till 2010 we predicted it till 2050
+Sea levels predictor is an Educational project about how we can apply liner regression on data (from 1890 till 2010) we predicted it till 2050
 
 ## Knowledge
 
