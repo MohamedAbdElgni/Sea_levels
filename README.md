@@ -3,7 +3,7 @@ Sea levels predictor is an Educational project about how we can apply liner regr
 ## Knowledge
 
 ```bash
-We Can Use This technique to predict any numeric data [ Time series specially ]
+We Can Use This technique to predict any  Time series Data
 ```
 
 # Technologies 
